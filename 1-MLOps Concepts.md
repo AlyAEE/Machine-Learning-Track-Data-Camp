@@ -1,6 +1,4 @@
-# Data Camp - MLOps Track
-
-# MLOps Concepts
+# 1-MLOps Concepts
 
 ## Introduction to MLOps
 
